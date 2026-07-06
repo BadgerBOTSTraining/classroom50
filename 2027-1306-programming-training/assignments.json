@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "robot-lesson-2-shooter-subsystem",
+      "name": "Robot Lesson 2: Shooter Subsystem",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Robot-Lesson-2-Template",
+        "branch": "main"
+      }
+    }
+  ]
 }
