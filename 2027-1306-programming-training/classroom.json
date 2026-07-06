@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "2027 1306 Programming Training",
+  "short_name": "2027-1306-programming-training",
+  "term": "2026-2027",
+  "org": "BadgerBOTSTraining",
+  "team": {
+    "id": 18353227,
+    "slug": "classroom50-2027-1306-programming-training"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18353228,
+      "slug": "classroom50-2027-1306-programming-training-instructor"
+    },
+    "ta": {
+      "id": 18353229,
+      "slug": "classroom50-2027-1306-programming-training-ta"
+    }
+  }
+}
