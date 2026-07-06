@@ -12,6 +12,18 @@
         "repo": "Robot-Lesson-2-Template",
         "branch": "main"
       }
+    },
+    {
+      "slug": "robot-lesson-3-4-advantage-kit-subsystem-pid",
+      "name": "Robot Lesson 3 + 4: Advantage Kit Subsystem + PID",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Robot-Lesson-3-Template",
+        "branch": "main"
+      }
     }
   ]
 }
