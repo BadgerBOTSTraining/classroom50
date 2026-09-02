@@ -24,24 +24,6 @@
         "repo": "Robot-Lesson-3-Template",
         "branch": "main"
       }
-    },
-    {
-      "slug": "hello-world",
-      "name": "Hello World",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "no_autograder": true,
-      "copy_about": true,
-      "copy_topics": true,
-      "template": {
-        "owner": "BadgerBOTSTraining",
-        "repo": "Java-Template",
-        "branch": "main"
-      },
-      "grading": {
-        "mode": "off"
-      }
     }
   ]
 }
