@@ -24,6 +24,26 @@
         "repo": "Robot-Lesson-3-Template",
         "branch": "main"
       }
+    },
+    {
+      "slug": "java-lesson-1",
+      "name": "Java Lesson 1",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Hello World lesson on Codecademy. The goal of this lesson is to learn how to create workspaces in VSCode, run java projects, and submit assignments on Classroom50. Connor will walk you through cloning the repository that is created when you accept this assignment.\n\nYour task:\nPrint \"Hello <your name>\" to the console.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
