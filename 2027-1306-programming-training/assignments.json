@@ -44,6 +44,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-2-variables",
+      "name": "Java Lesson 2 -- Variables",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Your Task:\nSave the following information in Variables. Think about what data type each variable should use, and use understandable names for each one (ex. Don't name your age variable \"Bob\"; name it \"age\"). Then, print out each of your variables.\n- Your name\n- Your age\n- Whether you're right or left handed (Don't use a String)\n- Hours of sleep last night (use decimals if applicable)",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
