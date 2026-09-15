@@ -84,6 +84,25 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-4",
+      "name": "Java Lesson 4 - Classes",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Introduction to Classes lesson on Codecademy. This assignment introduces one of the most important ideas in Java: creating your own classes and objects. You will create a class that represents something and then create objects from that class. You can create a new class by creating a .java file in the same package (folder) as your main file.\n\nTemplate: Main class with the main method\n\nYour task:\nCreate a class that represents something of your choice. Some examples include a Robot, Dog, VideoGame, Car, or Student.\nYour class must:\n- Have at least 3 instance variables that describe the object\n- Have a constructor that sets all 3 variables\n- Use appropriate data types for your variables\n- Create at least 2 different objects in main\n- Give the objects different values\n- Print information about both objects\n\nYour class should represent something that makes sense to you. The goal is not to make the most complicated class possible, but to demonstrate that you understand how classes and objects work.",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
