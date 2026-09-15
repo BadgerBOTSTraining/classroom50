@@ -27,7 +27,7 @@
     },
     {
       "slug": "java-lesson-1",
-      "name": "Java Lesson 1 - Hello WOrld",
+      "name": "Java Lesson 1 - Hello World",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
