@@ -144,6 +144,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-8",
+      "name": "Java Lesson 8 - Arrays",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Arrays lesson on Codecademy. Arrays allow you to store multiple values of the same type in one variable. In this assignment, you will practice creating, accessing, and changing values in an array.\n\nTemplate: Main class with the main method.\n\nYour task:\nCreate an array containing information related to a topic of your choice. Examples include test scores, game scores, sensor readings, temperatures, or ages.\nYour program must:\n- Create an array containing at least 5 values\n- Print at least 3 individual values from the array using their indexes\n- Change at least one value in the array\n- Print the changed value\n- Print the length of the array using .length\n\nDo not use a loop for this assignment. The goal is to practice working with individual array elements before combining arrays with loops.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
