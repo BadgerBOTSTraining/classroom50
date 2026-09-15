@@ -127,7 +127,7 @@
     },
     {
       "slug": "lesson-6-7",
-      "name": "Lesson 6+7 - Conditionals & Control Operators",
+      "name": "Java Lesson 6+7 - Conditionals & Control Operators",
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
