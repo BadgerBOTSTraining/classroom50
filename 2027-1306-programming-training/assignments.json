@@ -164,6 +164,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-10",
+      "name": "Java Lesson 10 - Loops",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Loops lesson on Codecademy. Loops allow your program to repeat code without writing the same instructions over and over. This assignment is your first larger problem-solving assignment: you will need to decide what your program should do and determine how a loop can accomplish it.\n\nTemplate: Main class with the main method.\n\nYour task:\nCreate an array or ArrayList containing a collection of numerical data. Your program should analyze the data and report useful information about it.\nYour program must:\n- Use at least one loop\n- Examine every value in the collection\n- Calculate a total or sum\n- Find the largest value\n- Find the smallest value\n- Calculate the average\n- Print the results\n\nYou may choose what the numbers represent. For example, they could be test scores, match scores, sensor readings, temperatures, or anything else that makes sense.\nYou should use a loop to process the collection rather than manually working with each value. Basically, pretend you don’t know the size or contents of the array.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
