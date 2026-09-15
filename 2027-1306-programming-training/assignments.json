@@ -64,6 +64,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-3",
+      "name": "Java Lesson 3 - Manipulating Variables",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Manipulating Variables lesson on Codecademy. In this assignment, you will use variables and mathematical operators to make calculations. The goal is to practice changing variables and using Java to solve simple mathematical problems.\n\nTemplate: Main class with the main method\n\nYour task:\nCreate a program that calculates the cost of buying several items. Choose three items and save the price of each item in a variable. Then calculate and print:\n- The total cost before tax\n- The amount of sales tax\n- The final cost after tax\n- The average price of the three items\nUse variables and mathematical operators to do all of the calculations. Do not calculate the answers yourself and just print the final numbers.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
