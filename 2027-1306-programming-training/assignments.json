@@ -124,6 +124,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "lesson-6-7",
+      "name": "Lesson 6+7 - Conditionals & Control Operators",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing both the Conditionals and Control Flow and Conditional Operators lessons on Codecademy. This assignment combines both lessons because the concepts are most useful when used together. Your goal is to make a program that can make decisions based on information.\n\nTemplate: Main class with the main method.\n\nYour task:\nCreate a program that determines what a robot should do based on several conditions. Choose your own scenario.\nYour program must:\n- Use at least one if statement\n- Use at least one else or else if\n- Use &&\n- Use ||\n- Use ! at least once\n- Make decisions using variables rather than hard-coded conditions\n\nYour program should have at least 3 different possible outcomes. For example, a robot might decide whether it is ready to shoot, needs to recharge, or should move somewhere else. Show these decisions by printing what decision the robot made.\nYou choose the scenario and the variables. Make sure the decisions in your program actually make sense.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
