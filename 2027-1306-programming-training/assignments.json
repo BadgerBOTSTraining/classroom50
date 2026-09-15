@@ -40,6 +40,13 @@
         "branch": "main"
       },
       "description": "Complete after doing the Hello World lesson on Codecademy. The goal of this lesson is to learn how to create workspaces in VSCode, run java projects, and submit assignments on Classroom50. Connor will walk you through cloning the repository that is created when you accept this assignment.\n\nYour task:\nPrint \"Hello <your name>\" to the console.",
+      "available_from": "2026-09-15T14:48:00Z",
+      "available_from_meta": {
+        "input": "2026-09-15T09:48:00",
+        "zone": "America/Chicago",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
       "grading": {
         "mode": "manual",
         "max_points": 1
