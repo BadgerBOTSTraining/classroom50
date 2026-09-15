@@ -104,6 +104,26 @@
         "mode": "manual",
         "max_points": 1
       }
+    },
+    {
+      "slug": "java-lesson-5",
+      "name": "Java Lesson 5 - Methods",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "BadgerBOTSTraining",
+        "repo": "Java-Template",
+        "branch": "main"
+      },
+      "description": "Complete after doing the Methods lesson on Codecademy. Methods allow you to break a program into smaller, reusable pieces. In this assignment, you will practice deciding when a task should be its own method and passing information into methods.\n\nTemplate: Copy-paste your code from lesson 4; we are building off of that.\n\nYour task:\nAdd at least 3 methods to your class. Each method should perform a useful action related to the object your class represents.\nYour methods must include:\n- At least one method that takes a parameter\n- At least one method that returns a value\n- At least one method that returns void\n- Calls to all 3 methods from main\n\nYour methods should actually use the information stored in your object. Avoid making methods whose only purpose is to print a single hard-coded sentence.",
+      "grading": {
+        "mode": "manual",
+        "max_points": 1
+      }
     }
   ]
 }
